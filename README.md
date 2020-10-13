@@ -1,6 +1,6 @@
 ## Olá Mundo, eu sou Romulo!
 [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=flat-square&logo=gmail&logoColor=white)](mailto:romulofgouvea@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/fagnerpsantos/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romulofgouvea/)](https://www.linkedin.com/in/fagnerpsantos/)
 [![Whatsapp Badge](https://img.shields.io/badge/WHATSAPP-25D366?&style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5532999611396)
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/romulo.f.gouvea/)
 [![Devto Badge](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=flat-square&logo=dev-dot-to&logoColor=white)](https://dev.to/romulofgouvea/)
