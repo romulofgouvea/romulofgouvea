@@ -9,7 +9,7 @@
 ```html
 <sobre-mim>
 [Backend && Frontend] Developer
-Trabalhando atualmente com C# e AngularJS
+Trabalhando atualmente com C# e ReactJS
 </sobre-mim>
 ```
 
